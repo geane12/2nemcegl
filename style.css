@@ -20,7 +20,7 @@ justify-content: center;
 }
 .escola{
     background-image: linear-gradient(hsl(335, 81%, 58%),hsl(345, 94%, 53%));
-    color:white;
+    color:rgb(240, 26, 90);
     display: flex;
     justify-content: center;
     align-items: center;
