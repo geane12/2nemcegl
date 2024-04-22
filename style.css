@@ -19,15 +19,10 @@ header {
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient();
-}
-.
-}.escola{
-    background-image: linear-gradient(#eb3471  hsl(345, 94%, 53%));
+    background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
-
