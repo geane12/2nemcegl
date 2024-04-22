@@ -23,7 +23,7 @@ header {
 }
 .
 }.escola{
-    background-image: linear-gradient(#eb3471#16CFF8);
+    background-image: linear-gradient(#eb3471  hsl(345, 94%, 53%));
     color:white;
     display: flex;
     justify-content: center;
