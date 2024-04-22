@@ -1,5 +1,5 @@
 header {
-    background-color: hsl(335, 93%, 36%);
+    background-color: #b1064e;
     color: rgb(0, 0, 0);
 }
 .cabecalho{
@@ -17,4 +17,8 @@ justify-content: center;
 }
 .escola-imagem{
     width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#b1064e, #b9326a);
 }
