@@ -6,7 +6,7 @@
 
 .cabecalho {
     background-color:(#088322
-    color(srgb red green #0000ff6e);
+    color(green #0000ff6e);
     display: flex;
     justify-content: space-around;
     align-items: center;
