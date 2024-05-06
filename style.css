@@ -44,7 +44,7 @@
 }
 .escola-imagem{
 
-    width:-10%;
+    width: -10px;%;
 
     }
   
@@ -57,3 +57,8 @@
           
           background-image: linear-gradient[#f753ce7e, #f753ce7e];
        }  
+   
+       .jesus.png{
+       
+        width: -10px
+       }
