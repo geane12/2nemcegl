@@ -29,7 +29,7 @@
 
 .escola{
     background-image: linear-gradient(#f753ce7e, #f753ce7e);
-    color: #af198ae7;
+    color: #af198ae7;jesus.jpg
     display: flex;
     justify-content: center;
     align-items: center;
@@ -58,7 +58,9 @@
           background-image: linear-gradient[#f753ce7e, #f753ce7e];
        }  
    
-       jesus.jpg{
+       .jesus.jpg{
+        
         width: 25%;
+
     }
     
