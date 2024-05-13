@@ -49,9 +49,11 @@
 .estudante-icone{
     width: 24px;
 }
-  
-    .escola{
-
+.estudante-imagem{
+     width: 120px;
+   }
+   .estudante-icone{
+}
        background-image: linear-gradient[];
     }
 
